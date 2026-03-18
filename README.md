@@ -20,20 +20,6 @@ gcc solution.c -o solution
 
 ---
 
-## 📚 Topics Covered
-
-| Topic | Problems Solved |
-|-------|----------------|
-| Introduction | ✅ |
-| Data Types | ✅ |
-| Arrays | ✅ |
-| Strings | ✅ |
-| Functions | ✅ |
-| Pointers | ✅ |
-| Structs | ✅ |
-
----
-
 ## 🧠 About
 
 This repository contains my personal solutions to the [HackerRank C Path](https://www.hackerrank.com/domains/c). Each solution is written in standard C and aims to be clean, readable, and well-commented.
